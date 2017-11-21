@@ -1,8 +1,0 @@
-/Users/Us/Documents/QT/ahmed/react_editor/build/CMakeFiles/rebuild_cache.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/CMakeFiles/edit_cache.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/CMakeFiles/nodes.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/CMakeFiles/nodes_autogen.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/reactSrc/CMakeFiles/rebuild_cache.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/reactSrc/CMakeFiles/edit_cache.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/reactSrc/CMakeFiles/react_editor.dir
-/Users/Us/Documents/QT/ahmed/react_editor/build/reactSrc/CMakeFiles/react_editor_autogen.dir
