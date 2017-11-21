@@ -4,7 +4,7 @@ Through my solution developers can build VR websites and interactive 360 experie
 
 ### Platforms
 
-* OSX (Apple Clang - LLVM 3.6) [![Build status](https://ci.appveyor.com/api/projects/status/wxp47wv3uyyiujjw/branch/master?svg=true)]
+* OSX (Apple Clang - LLVM 3.6) ![Build status](https://ci.appveyor.com/api/projects/status/wxp47wv3uyyiujjw/branch/master?svg=true)
 
 ### Dependencies
 
